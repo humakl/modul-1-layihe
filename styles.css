@@ -1,0 +1,154 @@
+.sixth-content > h1 {
+    width: 987px;
+    height: 93px;
+    margin-left: 122px;
+    margin-top: 212px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+.sixth-content > .rectangle {
+    width: 791px;
+    height: 451px;
+    margin-left: 126px;
+    margin-top: 34px;
+    background: #ffffff;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.sixth-content > .rectangle > p:first-child {
+    width: 700px;
+    height: 203px;
+    padding-left: 45px;
+    padding-top: 40px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.sixth-content > .rectangle > .row {
+    display: flex;
+}
+
+.sixth-content > .rectangle > .row > img:first-child {
+    width: 190px;
+    height: 169px;
+    padding-left: 26px;
+    padding-top: 1px;
+
+}
+
+.sixth-content > .rectangle > .row > p:last-child {
+    width: 353px;
+    height: 59px;
+    padding-left: 1px;
+    padding-top: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 101.38%;
+    color: #000000
+}
+
+.sixth-content > .rectangle > .row > img {
+    width: 32px;
+    height: 31px;
+    padding-left: 20px;
+    padding-top: 120px;
+}
+footer {
+    width: 100%;
+    height: 27.08vw;
+    background-color: black;
+    padding-top: 3.47vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo {
+    margin-left: 8.4vw;
+    width: 7.98vw;
+    height: 4.72vw;
+}
+
+.social-media {
+    margin-left: 8.4vw;
+}
+
+.icons {
+    margin-top: 2.08vw;
+    margin-right: 1.25vw;
+    width: 2.29vw;
+    height: 2.29vw;
+}
+
+footer > .second-content {
+    margin-left: 40vw;
+}
+
+.gruop11 {
+    width: 22.08vw;
+    height: 6.11vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.phone-icon {
+    width: 1.87vw;
+    height: 1.87vw;
+    margin-right: 1.52vw;
+}
+
+.phone-number {
+    width: 18.68vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 101.38%;
+    color: white;
+}
+
+.mail {
+    width: 18.68vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 101.38%;
+    color: white;
+}
+
+.mail-icon {
+    width: 1.87vw;
+    height: 1.25vw;
+    margin-right: 1.52vw;
+    margin-top: 0.2vw;
+}
+
+.phone {
+    display: flex;
+    margin-top: 0.69vw;
+}
+
+.email {
+    display: flex;
+    margin-top: 1.38vw;
+}
+
+.t24 {
+    color: white;
+    margin-left: 8.4vw;
+    margin-top: 10.2vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 101.38%;
+}
