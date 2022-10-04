@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.Reqsane-con{
+    margin-top: 248px;
+    margin-bottom: 212px;
+    width: 100%;
+}
+.Reqsane-main{
+    display: flex;
+    flex-direction: row;
+}
+.Reqsane{
+    display: flex;
+    flex-direction: row;
+}
+.Reqsane-son{
+    display: flex;
+    flex-direction: row;
+}
+h2 {
+    height: 93px;
+width: 905px;
+margin-left: 121px;
+margin-top: 248px;
+margin-bottom: 95px;
+border-radius: nullpx;
+font-family: Roboto Slab;
+font-size: 55px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+}
+img{
+    height: 160px;
+width: 399px;
+border-radius: 30px;
+}
+p{
+    height: 63px;
+width: 365px;
+margin-left: 19px;
+margin-top: 32px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+}
+h4{
+    height: 39px;
+width: 365px;
+margin-left: 20px;
+margin-top: 11px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 30px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: left;
+}
+.Reqsane-1{
+height: 328px;
+width: 399px;
+margin-left: 84px;
+margin-top: 95px;
+border-radius: 30px;
+box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.25);
+}
+.Reqsane-2{
+    height: 328px;
+    width: 399px;
+    margin-left: 37px;
+    margin-top: 95px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.25);
+    }
+    .Reqsane-3{
+        height: 328px;
+        width: 399px;
+        margin-left: 84px;
+        margin-top: 41px;
+        border-radius: 30px;
+        box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.25);
+    }
+    .Reqsane-4{
+        height: 328px;
+        width: 399px;
+        margin-left: 37px;
+        margin-top: 41px;
+        border-radius: 30px;
+        box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.25);
+    }
+   @media (max width: 1279px) and (min width: 992px) {
+    .Reqsane-con{
+        margin-top: 143px;
+        margin-bottom: 105px;
+        width: 100%;
+    }
+    .Reqsane-main{
+        display: flex;
+        flex-direction: row;
+    }
+    .Reqsane{
+        display: flex;
+        flex-direction: row;
+    }
+    .Reqsane-son{
+        display: flex;
+        flex-direction: row;
+    }
+    h2 {
+        height: 53.86250305175781px;
+        width: 524.1458740234375px;
+        margin-left: 70.0791015625px;
+        margin-top: 143.63px;
+        border-radius: nullpx;
+        font-family: Roboto Slab;
+font-size: 32px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+    }
+    img{
+        height: 92.66667938232422px;
+width: 231.0875244140625px;
+border-radius: [object Object]px;
+    border-radius: 30px;
+    }
+    p{
+        height: 36.48750305175781px;
+        width: 211.39585876464844px;
+        margin-left: 59.654052734375px;
+        margin-top: 18.53px;
+        border-radius: nullpx;
+        font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+    }
+    h4{
+        height: 22.587499618530273px;
+width: 211.39585876464844px;
+margin-left: 74px;
+margin-top: 25.64px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 17px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+    }
+    .Reqsane-1{
+        height: 189.9666748046875px;
+        width: 231.0875244140625px;
+        margin-left: 48.64990234375px;
+        margin-top: 55.02px;
+        border-radius: 17.375px;
+        box-shadow: 0.5791667103767395px 0.5791667103767395px 8.6875px 0px rgba(0, 0, 0, 0.25);
+    }
+    .Reqsane-2{
+        height: 189.9666748046875px;
+        width: 231.0875244140625px;
+        margin-left: 21.43px;
+        margin-top: 55.02px;
+        border-radius: 17.375px;
+        box-shadow: 0.5791667103767395px 0.5791667103767395px 8.6875px 0px rgba(0, 0, 0, 0.25);
+        }
+        .Reqsane-3{
+            height: 189.9666748046875px;
+width: 231.0875244140625px;
+margin-left: 48.64990234375px;
+margin-top: 23.75px;
+border-radius: 17.375px;
+box-shadow: 0.5791667103767395px 0.5791667103767395px 8.6875px 0px rgba(0, 0, 0, 0.25);
+        }
+        .Reqsane-4{
+            height: 189.9666748046875px;
+            width: 231.0875244140625px;
+            left:21.43px;
+            top: 23.75px;
+            border-radius: 17.375px;
+            box-shadow: 0.5791667103767395px 0.5791667103767395px 8.6875px 0px rgba(0, 0, 0, 0.25);
+
+        }
+   }
