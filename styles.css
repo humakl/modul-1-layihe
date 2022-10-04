@@ -94,7 +94,7 @@ box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.25);
         border-radius: 30px;
         box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.25);
     }
-   @media (max width: 1279px) and (min width: 992px) {
+   @media (max-width: 1279px) and (min- width: 992px) {
     .Reqsane-con{
         margin-top: 143px;
         margin-bottom: 105px;
@@ -128,14 +128,13 @@ text-align: left;
     img{
         height: 92.66667938232422px;
 width: 231.0875244140625px;
-border-radius: [object Object]px;
     border-radius: 30px;
     }
     p{
         height: 36.48750305175781px;
         width: 211.39585876464844px;
-        margin-left: 59.654052734375px;
-        margin-top: 18.53px;
+        margin-left: 11px;
+        margin-top: 22px;
         border-radius: nullpx;
         font-family: Roboto;
 font-size: 14px;
@@ -147,7 +146,7 @@ text-align: left;
     h4{
         height: 22.587499618530273px;
 width: 211.39585876464844px;
-margin-left: 74px;
+margin-left: 25.35px;
 margin-top: 25.64px;
 border-radius: nullpx;
 font-family: Roboto;
@@ -184,8 +183,8 @@ box-shadow: 0.5791667103767395px 0.5791667103767395px 8.6875px 0px rgba(0, 0, 0,
         .Reqsane-4{
             height: 189.9666748046875px;
             width: 231.0875244140625px;
-            left:21.43px;
-            top: 23.75px;
+            margin-left:21.43px;
+            margin-top: 23.75px;
             border-radius: 17.375px;
             box-shadow: 0.5791667103767395px 0.5791667103767395px 8.6875px 0px rgba(0, 0, 0, 0.25);
 
