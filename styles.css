@@ -1,0 +1,496 @@
+.sixth-content > h1 {
+    width: 987px;
+    height: 93px;
+    margin-left: 122px;
+    margin-top: 212px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+.sixth-content > .rectangle {
+    width: 791px;
+    height: 451px;
+    margin-left: 126px;
+    margin-top: 34px;
+    background: #ffffff;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.sixth-content > .rectangle > p:first-child {
+    width: 700px;
+    height: 203px;
+    padding-left: 45px;
+    padding-top: 40px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.sixth-content > .rectangle > .row {
+    display: flex;
+}
+
+.sixth-content > .rectangle > .row > img:first-child {
+    width: 190px;
+    height: 169px;
+    padding-left: 26px;
+    padding-top: 1px;
+
+}
+
+.sixth-content > .rectangle > .row > p:last-child {
+    width: 353px;
+    height: 59px;
+    padding-left: 1px;
+    padding-top: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 101.38%;
+    color: #000000
+}
+
+.sixth-content > .rectangle > .row > img {
+    width: 32px;
+    height: 31px;
+    padding-left: 20px;
+    padding-top: 120px;
+}
+footer {
+    width: 100%;
+    height: 27.08vw;
+    background-color: black;
+    padding-top: 3.47vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo {
+    margin-left: 8.4vw;
+    width: 7.98vw;
+    height: 4.72vw;
+}
+
+.social-media {
+    margin-left: 8.4vw;
+}
+
+.icons {
+    margin-top: 2.08vw;
+    margin-right: 1.25vw;
+    width: 2.29vw;
+    height: 2.29vw;
+}
+
+footer > .second-content {
+    margin-left: 40vw;
+}
+
+.gruop11 {
+    width: 22.08vw;
+    height: 6.11vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.phone-icon {
+    width: 1.87vw;
+    height: 1.87vw;
+    margin-right: 1.52vw;
+}
+
+.phone-number {
+    width: 18.68vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 101.38%;
+    color: white;
+}
+
+.mail {
+    width: 18.68vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.73vw;
+    line-height: 101.38%;
+    color: white;
+}
+
+.mail-icon {
+    width: 1.87vw;
+    height: 1.25vw;
+    margin-right: 1.52vw;
+    margin-top: 0.2vw;
+}
+
+.phone {
+    display: flex;
+    margin-top: 0.69vw;
+}
+
+.email {
+    display: flex;
+    margin-top: 1.38vw;
+}
+
+.t24 {
+    color: white;
+    margin-left: 8.4vw;
+    margin-top: 10.2vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 101.38%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+h1 {
+    position: absolute;
+width: 667px;
+height: 93px;
+left: 121px;
+top: 2000px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+
+color: #000000;
+}
+.main p{
+    font-family: 'Roboto';
+font-style: normal;
+}
+.p1{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 122px;
+top: 2182px;
+
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #1E4681;
+
+}
+.pp1{
+    position: absolute;
+width: 223px;
+height: 39px;
+left: 122px;
+top: 2222px;
+
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
+}
+.p2{
+    position: absolute;
+width: 214px;
+height: 39px;
+left: 467px;
+top: 2182px;
+
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #1E4681;
+
+}
+.pp2{
+    position: absolute;
+width: 271px;
+height: 109px;
+left: 467px;
+top: 2222px;
+
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+}
+.p3{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 851px;
+top: 2182px;
+
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #1E4681;
+
+}
+.pp3{
+    position: absolute;
+width: 245px;
+height: 39px;
+left: 851px;
+top: 2222px;
+
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+}
+
+@media (max-width: 1279px) and (min-width: 992px) {
+    h1{
+        position: absolute;
+width: 386.3px;
+height: 53.86px;
+left: 70.08px;
+top: 1168.17px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 101.38%;
+/* or 32px */
+
+color: #000000;
+    }
+    .main p{
+        font-family: 'Roboto';
+    font-style: normal;
+    }
+    .p1 {
+        position: absolute;
+        width: 86.88px;
+        height: 22.59px;
+        left: 70.66px;
+        top: 1273.58px;
+        
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+        /* or 19px */
+        
+        
+        color: #1E4681;
+        
+    }
+    .pp1 {
+        position: absolute;
+        width: 153px;
+        height: 22px;
+        left: 71px;
+        top: 1297px;
+        
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        /* or 14px */
+        
+        
+        color: #000000;
+    }
+    .p2 {
+        position: absolute;
+        width: 123.94px;
+        height: 22.59px;
+        left: 270.47px;
+        top: 1273.58px;
+        
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+        /* or 19px */
+        
+        
+        color: #1E4681;
+        
+    }
+    .pp2{
+        position: absolute;
+        width: 172px;
+        height: 63px;
+        left: 270px;
+        top: 1297px;
+        
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        /* or 14px */
+        
+        
+        color: #000000;
+        
+    }
+    .p3 {
+        position: absolute;
+        width: 86.88px;
+        height: 22.59px;
+        left: 492.87px;
+        top: 1273.58px;
+        
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+        /* or 19px */
+        
+        
+        color: #1E4681;
+        
+    }
+    .pp3 {
+        position: absolute;
+        width: 141.9px;
+        height: 22.59px;
+        left: 492.87px;
+        top: 1296.75px;
+        
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 130%;
+        /* or 14px */
+        
+        
+        color: #000000;
+    }
+
+}
+@media (max-width: 991px) and (min-width: 320px) {
+    h1 {
+        position: absolute;
+width: 310.8px;
+height: 43.34px;
+left: 36px;
+top: 1308px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 101.38%;
+/* or 26px */
+
+color: #000000;
+
+    }
+    .main p {
+        font-family: 'Roboto';
+font-style: normal;
+    }
+    .p1 {
+        position: absolute;
+        width: 69.9px;
+        height: 18.17px;
+        left: 35px;
+        top: 1368px;
+        
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 130%;
+        /* or 16px */
+        
+        
+        color: #1E4681;
+    }
+    .pp1 {
+        position: absolute;
+        width: 180px;
+        height: 48px;
+        left: 35px;
+        top: 1387px;
+        
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+        /* or 13px */
+        
+        
+        color: #000000;
+    }
+    .p2 {
+        position: absolute;
+        width: 99.72px;
+        height: 18.17px;
+        left: 35.38px;
+        top: 1445px;
+        
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 130%;
+        /* or 16px */
+        
+        
+        color: #1E4681;
+    }
+    .pp2 {
+        position: absolute;
+        width: 165px;
+        height: 51px;
+        left: 35px;
+        top: 1464px;
+        
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+        /* or 13px */
+        
+        
+        color: #000000;
+        
+    }
+    .p3 {
+        position: absolute;
+        width: 69.9px;
+        height: 18.17px;
+        left: 36px;
+        top: 1534px;
+        
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 130%;
+        /* or 16px */
+        
+        
+        color: #1E4681;
+        
+    }
+    .pp3 {
+        position: absolute;
+        width: 159px;
+        height: 31px;
+        left: 36px;
+        top: 1553px;
+        
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 130%;
+        /* or 13px */
+        
+        
+        color: #000000;
+    }
+}
